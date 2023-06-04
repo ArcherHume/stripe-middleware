@@ -1,6 +1,6 @@
 {
   "name": "stripe-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ExpressJS middleware for validating and handling Stripe webhooks.",
   "main": "index.js",
   "scripts": {
